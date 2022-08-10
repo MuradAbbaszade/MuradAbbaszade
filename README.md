@@ -42,9 +42,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/MuradAbbaszade" target="_blank">
