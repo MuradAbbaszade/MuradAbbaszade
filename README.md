@@ -6,10 +6,6 @@
   
 
 - ❓ Ask me about anything related to Back-End Development  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="22%">
