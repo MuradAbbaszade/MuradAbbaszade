@@ -1,12 +1,5 @@
-
-### <div align="center">I'm Murad, learning Back-End Development</div>  
-  
-
 - 🌱 I’m currently learning Java and Spring  
-  
-
 - ❓ Ask me about anything related to Back-End Development  
-
 ## My Skill Set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -27,12 +20,4 @@
 <a href="https://linkedin.com/in/murad-abbaszade-223125245/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>   
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuradAbbaszade&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MuradAbbaszade&&style=flat-square" align="center" />
-</div>  
+</div>
