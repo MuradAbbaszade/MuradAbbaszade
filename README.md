@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">Back-End Developer</h3>
+
 - 🌱 I’m currently learning Java and Spring  
 - ❓ Ask me about anything related to Back-End Development  
+
 ## My Skill Set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
