@@ -14,7 +14,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradAbbaszade&layout=compact" alt="MuradAbbaszade" /></p></div>
 </div>
 
 ## Connect with me  
@@ -26,3 +25,4 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
+ <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradAbbaszade&layout=compact" alt="MuradAbbaszade" /></p></div>
