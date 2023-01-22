@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning Java and Spring  
-- ❓ Ask me about anything related to Back-End Development  
+- ❓ Ask me about anything related to Software Development  
 
 ## My Skill Set  
 <div align="center"> 
